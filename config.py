@@ -9,8 +9,8 @@ FOOTER = "\n\n<i>👑 Developer:</i> @Shuvobhai"
 # ── Downstream APIs (already deployed) ────────────────────────────────────────
 TIKTOK_API = "https://tiktok-download-api-xapo.onrender.com"
 YOUTUBE_API = "https://youtube-api-all-in-one-by-shuvo.onrender.com"
-PINTEREST_API = "https://pinterest-api-by-shuvo-uxk1.onrender.com"
-INSTAGRAM_API = "https://insta-all-in-one-api-by-shuvo.onrender.com"
+PINTEREST_API = "https://pinterest-api-by-shuvo-uxk1.onrende.com"
+INSTAGRAM_API = "https://instagram-api-by-shuvo.onrender.com"
 API_KEY = "SHUVO-apis"
 
 # ── Daily free limits per feature (premium users bypass all of these) ───────
@@ -22,7 +22,7 @@ LIMITS = {
     "instagram_download": 30,
     "instagram_search": 20,
     "instagram_psearch": 20,
-    "pinterest_download": 30,
+    "pinterest_download": 30,l
     "pinterest_search": 100,
 }
 
