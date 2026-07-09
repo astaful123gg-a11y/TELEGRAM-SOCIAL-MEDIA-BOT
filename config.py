@@ -22,7 +22,7 @@ LIMITS = {
     "instagram_download": 30,
     "instagram_search": 20,
     "instagram_psearch": 20,
-    "pinterest_download": 30,l
+    "pinterest_download": 30,
     "pinterest_search": 100,
 }
 
