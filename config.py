@@ -1,4 +1,4 @@
-aBOT_TOKEN = "8841209055:AAHfIzI5x0_OtzeqiAyrXc-PiAB6dI6e0Lc"
+BOT_TOKEN = "8841209055:AAHfIzI5x0_OtzeqiAyrXc-PiAB6dI6e0Lc"
 
 # Telegram numeric user id of the bot owner (get yours from @userinfobot)
 OWNER_ID = 8600328303  # <-- replace with your real Telegram user id
