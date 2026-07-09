@@ -8,7 +8,7 @@ FOOTER = "\n\n<i>👑 Developer:</i> @Shuvobhai"
 
 # ── Downstream APIs (already deployed) ────────────────────────────────────────
 TIKTOK_API = "https://tiktok-download-api-xapo.onrender.com"
-YOUTUBE_API = "https://youtube-api-all-in-one-by-shuvo.onrender.com"
+YOUTUBE_API = "https://youtube-api-all-in-one.onrender.com"
 PINTEREST_API = "https://pinterest-api-by-shuvo-uxk1.onrende.com"
 INSTAGRAM_API = "https://instagram-api-by-shuvo.onrender.com"
 API_KEY = "SHUVO-apis"
